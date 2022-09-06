@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Outdoor Explorer Part 2</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_locations">Locations</string>
+    <string name="title_map">Map</string>
+    <string name="title_location">Location Details</string>
+    <string name="hours_label">Hours</string>
+    <string name="activities_label">Activities</string>
+    <string name="distance">Distance</string>
+    <string name="distance_value">%1$.2f mi</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="locations_snackbar">Show distance to locations?</string>
+    <string name="locations_rationale">We need access to your location to show you recreation opportunities near your current location. This data is not stored or shared.</string>
+    <string name="map_snackbar">Show your location on the map?</string>
+    <string name="map_rationale">We need access to your location to show your location relative to recreation opportunities near you. This data is not stored or shared.</string>
+
+    <string name="activities_location_snackbar">Use location to show nearby activities?</string>
+    <string name="activities_background_snackbar">Allow location when not in use to show nearby activities?</string>
+    <string name="activities_background_rationale">Using the locations nearby functionality requires background access to your device\'s location</string>
+    <string name="activities_background_reminder">We use your location even when this app is closed to share nearby activities</string>
+
+    <string name="notification_channel">Nearby Locations</string>
+    <string name="notification_message">Visit %1$s to enjoy your favorite activities</string>
+    <string name="notification_title">Discover the outdoors near you now!</string>
+    <string name="menu_title_filter">Filter</string>
+    <string name="streetview_button">Launch Street View</string>
+    <string name="google_ratings_label">Google Ratings</string>
+    <string name="google_ratings_count">(%1$d)</string>
+    <string name="google_attribution">Google Attribution</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="time">Time</string>
+    <string name="custom_region_button">Draw Custom Region</string>
+    <string name="notification_channel_workout">Workout Recording</string>
+    <string name="notification_message_workout">Outdoor Explorer is recording your workout</string>
+    <string name="notification_title_workout">@string/app_name</string>
+    <string name="title_workout">Record Workout</string>
+    <string name="workout_rationale">We need access to your location to record your workout.</string>
+
+
+</resources>
+
+
+

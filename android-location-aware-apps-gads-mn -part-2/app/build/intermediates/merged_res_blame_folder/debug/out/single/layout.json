@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_item.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_workout.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_workout.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_locations.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_activities.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\workout_item.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\workout_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_workouts.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_workouts.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_location.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\location_activity_item.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\location_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_maps.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_filter.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\dialog_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\region_item.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\region_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\location_item.xml",
+        "source": "C:\\Users\\LAWAL\\AndroidStudioProjects\\android-location-aware-apps-gads-mn -part-2\\app\\src\\main\\res\\layout\\location_item.xml"
+    }
+]
